@@ -1,0 +1,6 @@
+{
+  "name": "Robot Sumo ESP32 Controller",
+  "description": "Controlador y simulador de Robot Sumo mediante Bluetooth clásico con ESP32, driver L298N, código completo PlatformIO y sistema de seguridad failsafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
